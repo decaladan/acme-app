@@ -1,0 +1,23 @@
+{
+  "name": "dev-a",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/decaladan/acme-app#readme",
+  "bugs": {
+    "url": "https://github.com/decaladan/acme-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decaladan/acme-app.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+     "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
